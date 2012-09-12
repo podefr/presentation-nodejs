@@ -1,13 +1,13 @@
 {
- "name": "",
- "description": "",
- "version": "",
+ "name": "meetupstrasbourgweb",
+ "description": "don't download this one",
+ "version": "0.0.2beta",
  "files": [
-
+	"module.js"
  ],
- "author": "",
- "keywords": [""],
- "main":"",
+ "author": "Meetup Strasbourg Web",
+ "keywords": ["meetup", "strasbourg", "web"],
+ "main":"module.js",
  "engines": {
  	"node":">= 0.6.0"
  }
