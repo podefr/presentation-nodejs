@@ -5,3 +5,5 @@ The html version can be found in presentation-html
 
 Use 'npm pack' to generate the npm module
 And 'npm install path/to/module' to install it
+
+link to the node.js application demo: https://github.com/podefr/suggestions
